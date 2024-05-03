@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/router-sdk",
-  "version": "1.9.0",
+  "name": "smartswap-router-sdk",
+  "version": "1.0.0",
   "description": "An sdk for routing swaps using Uniswap v2 and Uniswap v3.",
   "publishConfig": {
     "access": "public"
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/router-sdk.git"
+    "url": "https://github.com/JRaghu842/smartswap-router-sdk.git"
   },
   "keywords": [
     "uniswap",
@@ -27,10 +27,10 @@
   "license": "MIT",
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
-    "@uniswap/sdk-core": "^4.2.0",
-    "@uniswap/swap-router-contracts": "^1.1.0",
-    "@uniswap/v2-sdk": "^4.3.0",
-    "@uniswap/v3-sdk": "^3.11.0"
+    "smartswap-router-contracts": "^1.0.1",
+    "smartswap-sdk-core": "^1.0.3",
+    "smartswap-v2-sdk": "^1.0.0",
+    "smartswap-v3-sdk": "^1.0.4"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
