@@ -27,10 +27,10 @@
   "license": "MIT",
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
-    "smartswap-router-contracts": "^1.0.1",
-    "smartswap-sdk-core": "^1.0.3",
-    "smartswap-v2-sdk": "^1.0.0",
-    "smartswap-v3-sdk": "^1.0.4"
+    "smartswap-router-contracts": "^1.0.2",
+    "smartswap-sdk-core": "^1.0.4",
+    "smartswap-v2-sdk": "^1.0.1",
+    "smartswap-v3-sdk": "^1.0.5"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
